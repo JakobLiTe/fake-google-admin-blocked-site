@@ -18,7 +18,7 @@ cd fake-google-admin-blocked-site
 ```
 Open index.html. That’s it.
 
-# What this is (and isn’t)his is:
+# What this is (and isn’t):
 This is a
   •	A static UI mockup	A frontend practice project
 	•	A visual clone for learning purposes
