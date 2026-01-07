@@ -13,5 +13,7 @@ Clone this repository with
 git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git google_admin_blocked
 cd google_admin_blocked
 ```
+
+# LEGAL MUMBO JUMBO
 I don't condone cheating in any way, i did not cheat, and this is strictly for educational and entertainment uses only. I
 I will not be held liable for any future damages this product may cause to certain school stuff. please dont use it to cheat
