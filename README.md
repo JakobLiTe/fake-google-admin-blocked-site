@@ -28,9 +28,9 @@ Just markup and styling.
 
 Clone the repository and open the page locally:
 
-```bash
-git clone github.com fake_google_blocked && cd fake_google_blocked
-``bashindex.html. That’s it.
+git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git fake_google_blocked && cd fake_google_blocked
+
+and just run index.html
 
 ## What this is
 	•	A static UI mockup
