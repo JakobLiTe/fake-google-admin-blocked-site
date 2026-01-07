@@ -1,19 +1,43 @@
 # fake-google-admin-blocked-site
-a fake Google: An Administrator has blocked this page
 
+A fake “This site is blocked by your administrator” page, built in plain HTML and CSS.
 
-I was in an exam, using a mac, everyone else had chromebooks with a kind of exam mode, i scrambled something up in html and css so i could pass by the unassuming teacher that i also had a exam mode, worked perfectly.
+This started as a quick UI clone of a very familiar managed‑device error screen. The goal was to recreate the look and feel of those pages as closely as possible using simple frontend techniques.
 
-Please edit the code to make it better, or just not. I dont plan on using it again
+# Notes
 
+If you’ve ever used a managed device, you’ve probably seen a page like this.
+Recreating it turns out to be easier than people think — which is kind of the point.
 
-# USAGE
-Clone this repository with
+# Usage
+
+Clone the repository and open the page locally:
 ```
-git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git google_admin_blocked
-cd google_admin_blocked
+git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git
+cd fake-google-admin-blocked-site
 ```
+Open index.html. That’s it.
 
-# LEGAL MUMBO JUMBO
-I don't condone cheating in any way, i did not cheat, and this is strictly for educational and entertainment uses only. I
-I will not be held liable for any future damages this product may cause to certain school stuff. please dont use it to cheat
+# What this is (and isn’t)his is:
+This is a
+  •	A static UI mockup	A frontend practice project
+	•	A visual clone for learning purposes
+
+This is not:
+	•	A real Google / Chrome page
+	•	A bypass for restrictions
+	•	Connected to any admin, browser, or device policy
+
+It’s literally just an HTML file you open in a browser.
+
+# Disclaimer
+
+This project is intended solely for educational and UI practice purposes.
+It does not bypass restrictions or interact with device management systems.
+
+Google and Chrome are trademarks of Google LLC.
+This project is not affiliated with or endorsed by Google.
+
+# License
+
+GPL-3.0 License
