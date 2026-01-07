@@ -7,7 +7,7 @@ This started as a quick UI clone of a very familiar managed‑device error scree
 # Notes
 
 If you’ve ever used a managed device, you’ve probably seen a page like this.
-Recreating it turns out to be easier than people think — which is kind of the point.
+Recreating it turns out to be easier than people think which is kind of the point.
 
 # Usage
 
