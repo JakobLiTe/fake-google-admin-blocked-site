@@ -9,10 +9,10 @@ Please edit the code to make it better, or just not. I dont plan on using it aga
 
 # USAGE
 Clone this repository with
-``` git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git google_admin_blocked
-    cd google_admin_blocked
-
-Id
+```
+git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git google_admin_blocked
+cd google_admin_blocked
+``
 
 o not condone cheating in any way, i did not cheat, and this is strictly for educational and entertainment uses only. I
-ill not be held liable for any future damages this product may cause to certain school stuff. please dont use it to cheat
+I will not be held liable for any future damages this product may cause to certain school stuff. please dont use it to cheat
