@@ -28,25 +28,25 @@ Just markup and styling.
 
 Clone the repository and open the page locally:
 
-git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git fake_google_blocked && cd fake_google_blocked
+```git clone https://github.com/JakobLiTe/fake-google-admin-blocked-site.git fake_google_blocked && cd fake_google_blocked``
 
 and just run index.html
 
 ## What this is
-	•	A static UI mockup
-	•	A frontend practice project
-	•	A visual clone for learning purposes
+		A static UI mockup
+		A frontend practice project
+		A visual clone for learning purposes
 
-What this isn’t
-	•	A real Google / Chrome page
-	•	A bypass for restrictions
-	•	Connected to any admin, browser, or device policy
+## What this isn’t
+		A real Google / Chrome page
+		A bypass for restrictions
+		Connected to any admin, browser, or device policy
 
 It’s literally just an HTML file you open in a browser.
 
 ⸻
 
-Disclaimer
+# Disclaimer
 
 This project is intended solely for educational and UI practice purposes.
 	•	It does not bypass restrictions
@@ -58,6 +58,6 @@ This project is not affiliated with or endorsed by Google.
 
 ⸻
 
-License
+# License
 
 GPL‑3.0 License
